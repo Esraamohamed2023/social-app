@@ -1,0 +1,5 @@
+            .sty:hover {
+                color: blue;
+                background-color: #eeee;
+                border-left: 4px solid blue;
+            }
